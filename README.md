@@ -15,12 +15,15 @@ işlemini yapan ve sonucu ekranda gösteren C++ programını tasarlayınız.
  
 3. Klavyeden girilen iki sayı arasındaki sayılarla (girilen sayılar dahil) Hesapla isimli fonksiyon kullanılarak bazı işlemler yapılacaktır. Klavyeden girilen iki sayı ve yapılacak işlem tercihi (toplam üç parametre) Hesapla fonksiyonuna gönderilecek ve main fonksiyonuna dönen cevaplar ekranda gösterilecektir. Buna göre işlem tercihi olarak; 
  
-• ‘t’ girilirse iki sayı arasındaki sayılar toplanacak, 
-• ‘o’ girilirse iki sayı arasındaki sayıların ortalaması bulunacak, 
-• ‘u’ girilirse iki sayı arasındaki 3 ile tam bölünen tek sayıların kareleri toplamı bulunacak, 
-• ‘k’ girilirse iki sayı arasındaki çift sayıların kareköklerinin toplamı bulunarak sonuç main’e (ana programa) döndürülerek ekranda gösterilecektir.   
+    • ‘t’ girilirse iki sayı arasındaki sayılar toplanacak, 
+ 
+    • ‘o’ girilirse iki sayı arasındaki sayıların ortalaması bulunacak, 
+ 
+    • ‘u’ girilirse iki sayı arasındaki 3 ile tam bölünen tek sayıların kareleri toplamı bulunacak, 
+ 
+    • ‘k’ girilirse iki sayı arasındaki çift sayıların kareköklerinin toplamı bulunarak sonuç main’e (ana programa) döndürülerek ekranda gösterilecektir.   
 
-Bu işlemleri gerçekleştiren C++ programını tasarlayınız. 
+     Bu işlemleri gerçekleştiren C++ programını tasarlayınız. 
 
 4. Bir dersten geçme şartı finalden en az 50 almak ve vize-final ortalamasının (vizenin %40’ı + finalin %60’ı) genel sınıf ortalamasının üzerinde olmasıdır. Buna göre 5 öğrenci bulunan bir sınıf için program çalıştığında isim, soyisim, vize ve final notları girilecektir. Vize ve final notlarına göre öğrencinin ortalaması hesaplanacaktır. Bundan sonra tüm öğrencilerin isim-soyisimleri, ortalaması ve geçme şartı sağlanıyorsa “GEÇTİ”, sağlanmıyorsa “KALDI” yazacaktır. 
  
