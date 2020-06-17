@@ -1,5 +1,5 @@
 # deneme
-c++ alıştırmalar
+# c++ alıştırmalar
 
 
 1. Klavyeden girilen bir n değeri için 
